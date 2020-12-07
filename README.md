@@ -2,12 +2,19 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Introduction](#Introduction)
+* [Overview](#Overview)
 
-## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+### Introduction
+This is a part of [EGFWD](https://www.egfwd.com) Web development proffesional Track at [Udacity](https://www.udacity.com/)
 
-To get started, open `js/app.js` and start building out the app's functionality
+### Overview
+Building a landing page witha multiselction navigation bar which is build automaticly using javascript
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+#### Find me in social media
+[![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/ahmed-gharib89 "Github")
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/ahmed-abdel-moniem-gharib/ "LinkedIn")
+[![Facebook](https://img.icons8.com/ios-filled/30/000000/facebook-new.png "Facebook")](https://www.facebook.com/just.nimo/)
+[![Whatsapp](https://img.icons8.com/ios/30/000000/whatsapp.png "Whatsapp")](https://wa.me/201096995535?text=Hello)
+[![Instagram](https://img.icons8.com/ios/30/000000/instagram.png "Instagram")](https://www.instagram.com/ahmed.gharib89/)
